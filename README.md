@@ -1,13 +1,13 @@
 <div>
 <h1>Olá, eu sou o Guilherme, iniciante no mundo da tecnologia...</h1>
 
-<p>Sou bacharel em "Administração de Empresas" pela faculdade "UMESP", e estou buscando ingressar no mercado de tecnologia, após alguns anos trabalhando no setor comercial, comecei a pegar gosto pelo lado da programação. Em uma oportunidade recente, comecei a estudar <b>"JavaScript"</b>, sai da estaca zero e ja aprendi algumas coisas.</p>
-
-<p>Até o momento, fiz dois cursos de <b>"JavaScript"</b>, porém tenho apenas um certificado, da <b>"Udemy"</b>. Tenho alguns projetos básicos que estão aqui no meu portifólio do <b>"GitHub"</b>.</p>
-
-<p>Tenho como meta até o fim de 2022, ter uma boa base de <b>"JavaScript"</b> e ter uma boa noção de <b>"React Native"</b>, sendo asim, em 2023 conseguir trabalhar como um <b>"Dev"</b>.</p>
-</div>
-
+<p>Sou bacharel em "Administração de Empresas" pela faculdade "UMESP", e estou buscando ingressar no mercado de tecnologia, após alguns anos trabalhando no setor comercial, comecei a pegar gosto pelo lado da programação. Em uma oportunidade "recente", comecei a estudar <b>"JavaScript"</b> sai da estaca zero e ja aprendi algumas coisas.</p>
+  
+  <p>Dando continuidade nos estudos, fiz todo o curso completo de <b>"Front-end"</b> pela plataforma <b>"alura</b>. Provando meus conhecimentos, criei um site do zero utilizando a tríade do front-end, decidi não utilizar nenhum "Framework" nesse momento, mas tenho conhecimentos em <b>"Bootstrap"</b>.</p>
+    
+  <p>Dando sequencia nos estudos, fiz um curso completo de <b>"Back-end"</b> utilizando a linguagem <b>C#</b>(Funções, Debugs, Object ToString, Construtores, Sobrecargas, This, Encapsulamento, Properties, AutoProperties, ForEach, Switch-Case, Herança/Polimorfismo, ASP.Net Core MVC EF, CRUD etc.)</p>
+  
+<p>Todos meus projetos feitos até o momento estão aqui no meu perfil do Github. Gostaria de uma oportunidade de ingressar em sua empresa. Aprendo rápido, sou muito proativo e muito flexível.</p>
 
 <div>
 <header>
@@ -18,6 +18,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
 &nbsp     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
+&nbsp 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
+&nbsp  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </header> 
 </div>
 <p></p>
