@@ -1,13 +1,11 @@
 <div>
 <h1>Olá, eu sou o Guilherme, iniciante no mundo da tecnologia...</h1>
 
-<p>Sou bacharel em "Administração de Empresas" pela faculdade "UMESP", e estou buscando ingressar no mercado de tecnologia, após alguns anos trabalhando no setor comercial, comecei a pegar gosto pelo lado da programação. Em uma oportunidade "recente", comecei a estudar <b>"JavaScript"</b> sai da estaca zero e ja aprendi algumas coisas.</p>
+<p>Olá, eu sou o Guilherme, bacharel em Administração de Empresas pela UMESP. Após mais de 5 anos de experiência no setor comercial em empresas como Mercedes-Benz, SAP e Raia Drogasil, descobri uma grande paixão pela programação e estou em transição para o mundo da tecnologia.</p>
   
-  <p>Fiz todo o curso completo de <b>"Front-end"</b> pela plataforma <b>"alura</b>. Provando meus conhecimentos, criei um site do zero utilizando a tríade do front-end, decidi não utilizar nenhum "Framework" nesse momento, mas tenho conhecimentos em <b>"Bootstrap"</b>.</p>
+  <p>Recentemente, concluí um curso completo de Front-end pela plataforma Alura, onde aprendi HTML, CSS e JavaScript, e criei um site do zero utilizando essas tecnologias. Além disso, me aprofundei no Back-end, com C# e ASP.Net Core MVC, adquirindo conhecimentos em tópicos como funções, depuração, herança, polimorfismo e muito mais. Também fiz um curso de Banco de Dados em SQL Server.</b>.</p>
     
-  <p>Dando sequência nos estudos, fiz um curso completo de <b>"Back-end"</b> utilizando a linguagem <b>C#</b>(Funções, Debugs, Object ToString, Construtores, Sobrecargas, This, Encapsulamento, Properties, AutoProperties, ForEach, Switch-Case, Herança/Polimorfismo, ASP.Net Core MVC EF, CRUD etc.), Consequentemente fiz um curso completo de <b>"Banco de Dados em SQL Server"</b>.</p>
-  
-<p>Todos meus projetos feitos até o momento estão aqui no meu perfil do Github. Gostaria de uma oportunidade de ingressar em sua empresa. Aprendo rápido, sou muito proativo e muito flexível.</p>
+  <p>Atualmente, meus projetos estão disponíveis no meu perfil do GitHub e estou em busca de uma oportunidade para aplicar meus conhecimentos e continuar evoluindo no universo da tecnologia. Sou rápido no aprendizado, proativo e muito flexível.</b>.</p>
 
 <div>
 <header>
