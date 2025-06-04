@@ -1,11 +1,25 @@
 <div>
-<h1>Olá, eu sou o Guilherme, iniciante no mundo da tecnologia...</h1>
+<h1>🙋🏼‍♂️ Olá! Sou Guilherme, bacharel em Administração pela UMESP, com mais de 5 anos de experiência no setor comercial. Atuei em grandes empresas como Mercedes-Benz, SAP e Casio, desenvolvendo habilidades em comunicação, negociação e relacionamento com clientes.</h1>
 
-<p>Olá, eu sou o Guilherme, bacharel em Administração de Empresas pela UMESP. Após mais de 5 anos de experiência no setor comercial em empresas como Mercedes-Benz, SAP e Raia Drogasil, descobri uma grande paixão pela programação e estou em transição para o mundo da tecnologia.</p>
+<p>🌍 Participei de um programa de imersão em inglês em Londres, o que me permitiu aprimorar a fluência no idioma e desenvolver a capacidade de me adaptar a ambientes multiculturais.</p>
   
-  <p>Recentemente, concluí um curso completo de Front-end pela plataforma Alura, onde aprendi HTML, CSS e JavaScript, e criei um site do zero utilizando essas tecnologias. Além disso, me aprofundei no Back-end, com C# e ASP.Net Core MVC, adquirindo conhecimentos em tópicos como funções, depuração, herança, polimorfismo e muito mais. Também fiz um curso de Banco de Dados em SQL Server.</b>.</p>
+<p>💻 Movido por novos desafios, iniciei minha transição de carreira para a área de TI. Atualmente:
+
+📚 Curso Análise e Desenvolvimento de Sistemas (Senac)
+
+💡 Estudei Front-end (HTML, CSS, JavaScript), Back-end com C# e ASP.Net Core MVC
+
+🧠 Conhecimentos em Banco de Dados com SQL Server
+
+🔧 Criei projetos práticos, disponíveis neste portfólio</b>.</p>
     
-  <p>Atualmente, meus projetos estão disponíveis no meu perfil do GitHub e estou em busca de uma oportunidade para aplicar meus conhecimentos e continuar evoluindo no universo da tecnologia. Sou rápido no aprendizado, proativo e muito flexível.</b>.</p>
+  <p>🚀 Atuo como Estagiário Full Stack na 4zoom, contribuindo com o desenvolvimento de soluções para grandes empresas:
+
+🌐 Front-end: HTML, CSS, JavaScript
+
+🖥️ Back-end: C#
+
+🗃️ Banco de Dados: MySQL</b>.</p>
 
 <div>
 <header>
