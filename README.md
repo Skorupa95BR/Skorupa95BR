@@ -1,5 +1,5 @@
 <div>
-<h1>🙋🏼‍♂️ Olá! Sou Guilherme, bacharel em Administração pela UMESP, com mais de 5 anos de experiência no setor comercial. Atuei em grandes empresas como Mercedes-Benz, SAP e Casio, desenvolvendo habilidades em comunicação, negociação e relacionamento com clientes.</h1>
+<p>🙋🏼‍♂️ Olá! Sou Guilherme, bacharel em Administração pela UMESP, com mais de 5 anos de experiência no setor comercial. Atuei em grandes empresas como Mercedes-Benz, SAP e Casio, desenvolvendo habilidades em comunicação, negociação e relacionamento com clientes.<p>
 
 <p>🌍 Participei de um programa de imersão em inglês em Londres, o que me permitiu aprimorar a fluência no idioma e desenvolver a capacidade de me adaptar a ambientes multiculturais.</p>
   
