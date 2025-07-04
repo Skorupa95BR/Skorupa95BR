@@ -44,7 +44,7 @@ Atuo como **Estagiário Full Stack** na 4zoom, contribuindo com o desenvolviment
 📧 Email: guilherme_skorupa_leite@hotmail.com
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/Skorupa95BR/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/Skorupa95BR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skorupa95BR/Skorupa95BR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skorupa95BR/Skorupa95BR/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Skorupa95BR/Skorupa95BR/output/github-contribution-grid-snake.svg">
 </picture>
