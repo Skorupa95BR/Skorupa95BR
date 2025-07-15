@@ -15,8 +15,8 @@ Movido por novos desafios, iniciei minha transição para a área de TI. Atualme
 Atuo como **Estagiário Full Stack** na 4zoom, contribuindo com o desenvolvimento de soluções para grandes empresas:
 
 - 🌐 **Front-end**: HTML, CSS, JavaScript  
-- 🖥️ **Back-end**: C#  
-- 🗃️ **Banco de Dados**: MySQL  
+- 🖥️ **Back-end**: Node.Js
+- 🗃️ **Banco de Dados**: SQLServer
 
 ---
 
